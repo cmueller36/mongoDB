@@ -1,0 +1,28 @@
+{
+  "name": "assignment18",
+  "version": "1.0.0",
+  "description": "mongoDB homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmueller36/mongoDB.git"
+  },
+  "author": "Chris Mueller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmueller36/mongoDB/issues"
+  },
+  "homepage": "https://github.com/cmueller36/mongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.2.15",
+    "request": "^2.88.0"
+  }
+}

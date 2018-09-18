@@ -1,0 +1,22 @@
+.jumbotron-fluid{
+    background-image: url("/img/nyt.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    text-align: center
+}
+
+.container{
+    color: whitesmoke;
+    padding-top: 10%
+}
+
+#indexTitle{
+    font-size: 80px;
+    font-style: 'Playfair Display', serif;
+}
+
+#indexSubTitle{
+    font-size: 40px;
+    font-style: 'Playfair Display', serif;
+}
